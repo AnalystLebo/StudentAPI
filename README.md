@@ -83,18 +83,31 @@ DELETE http://localhost:8080/students/1
     "course": "Networking Systems",
     "gpa": 3.8
   },
-  {
-    "id": 2,
-    "name": "John Doe",
-    "course": "Computer Science",
-    "gpa": 3.5
-  },
+
+{
+"id"; 2,
+"name": "Prudence Tapeane",
+"course": "Logistics &c Supply Chain"
+"gpa": 3.5
+},
   {
     "id": 3,
-    "name": "Jane Smith",
-    "course": "Information Technology",
+    "name": "Tshepiso Tapeane",
+    "course": "Bachelor of Accounting",
     "gpa": 3.9
-  }
+  },
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "course": "Computer Science",
+    "gpa": 3.6
+  },
+{
+"id": 5
+"name": "Lihle Vuyo",
+"course": "Humanities",
+"gpa": 3.2
+}
 ]
 ```
 
