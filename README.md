@@ -87,7 +87,7 @@ DELETE http://localhost:8080/students/1
 {
 "id": 2,
 "name": "Prudence Tapeane",
-"course": "Logistics &c Supply Chain"
+"course": "Logistics & Supply Chain"
 "gpa": 3.5
 },
   {
